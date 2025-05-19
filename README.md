@@ -40,7 +40,7 @@
 - Gasto inicial de dinheiro em estrutura física
 - Tem valor que se reduz com o tempo
 
----
+
 
 ## OpEx
 
@@ -48,7 +48,7 @@
 - gastar com produtos e serviços conforme necessário, pagamento conforme o uso
 - Seja cobrado imediatamente
 
----
+
 
 ## Modelo baseado em consumo
 
